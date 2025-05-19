@@ -42,12 +42,4 @@ What times of day have the highest ride frequency?
 
 What are the most common days/times for travel?
 
-Shall we start with Page 1: Ride Trends & Revenue Overview? I can help you write or review code for:
 
-Monthly ride counts
-
-Monthly average fares
-
-Revenue per pickup area
-
-Let me know which one you'd like to begin with.
